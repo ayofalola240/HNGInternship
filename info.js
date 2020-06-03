@@ -6,6 +6,6 @@ function printMessage() {
     return myJSON
 
 }
-
+printMessage()
 
 
